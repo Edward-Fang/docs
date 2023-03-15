@@ -1,0 +1,17 @@
+{
+  "name": "vitepress-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "bash deploy.sh",
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "1.0.0-alpha.58",
+    "vue": "^3.2.47"
+  }
+}
